@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "aws_region": "us-west-2", 
+        "django_settings": "helloworld.settings", 
+        "profile_name": "default", 
+        "s3_bucket": "zappa-w7m4pigx7"
+    }
+}
