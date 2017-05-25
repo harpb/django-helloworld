@@ -24,3 +24,4 @@ tqdm==3.7.1
 uguuAPI==1.0.0
 wheel==0.24.0
 wsgi-request-logger==0.4.4
+djangorestframework==3.6.3

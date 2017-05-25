@@ -1,3 +1,7 @@
+.idea/
 *.pyc
 .DS_Store
 *_settings.py
+pyenv/
+django-hellowor-dev-1495655083_2.zip
+static_collection/
